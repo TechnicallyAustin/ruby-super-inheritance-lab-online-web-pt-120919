@@ -5,10 +5,10 @@ end
 
 def hello
  @msg =  "hey there! I'm so excited to learn stuff."
- p @msg 
+ puts @msg 
 end
 def raise_hand
-  p "Pick me!"
+  puts "Pick me!"
 end
 
 end 
