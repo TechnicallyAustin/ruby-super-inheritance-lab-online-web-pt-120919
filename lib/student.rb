@@ -4,7 +4,7 @@ class Student
 end
 
 def hello
- @msg =  "hey there! I'm so excited to learn stuff."
+ @msg =  "Hey there! I'm so excited to learn stuff."
  puts @msg 
 end
 def raise_hand
