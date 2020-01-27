@@ -1,11 +1,14 @@
 class Student
-  attr_accessor
+  attr_accessor :hello, :raise_hand 
   def iniitialize()
 end
 
 def hello
  @msg =  "hey there! I'm so excited to learn stuff."
- @msg 
+ p @msg 
+end
+def raise_hand
+  p "Pick me!"
 end
 
 end 
