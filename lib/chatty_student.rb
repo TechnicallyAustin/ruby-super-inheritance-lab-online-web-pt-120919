@@ -11,5 +11,6 @@ def raise_hand
   while counter < 9
     puts "Pick me!"
 end
+end
 
 end
