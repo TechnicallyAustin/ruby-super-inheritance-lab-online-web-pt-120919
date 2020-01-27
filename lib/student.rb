@@ -4,5 +4,6 @@ class Student
 end
 
 def hello
-  "hey there! I'm so excited to learn stuff."
+ @msg =  "hey there! I'm so excited to learn stuff."
+ @msg 
 end
